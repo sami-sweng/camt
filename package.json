@@ -1,6 +1,6 @@
 {
   "name": "camt",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Camt parser",
   "main": "parse.js",
   "scripts": {
